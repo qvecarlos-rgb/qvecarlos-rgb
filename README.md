@@ -14,7 +14,7 @@
 
 <div align="center">
 
-##  || Sobre mí ||
+##   Sobre mí
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding"/>
 
@@ -54,7 +54,7 @@
 
 <div align="center">
 
-### 🖤💜 Aprendiendo actualmente
+###  Aprendiendo actualmente
 
 <p>
   <img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
