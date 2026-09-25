@@ -71,40 +71,7 @@
   <img src="https://img.shields.io/badge/IntelliJ-8A2BE2?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=000000" />
 </p>
 
-### 📊 Nivel de aprendizaje
-
-<p>
-  <img src="https://img.shields.io/badge/Python-70%25-8A2BE2?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Java-50%25-6A0DAD?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/C++-40%25-4B0082?style=for-the-badge&labelColor=000000" />
-</p>
-
-</div>
-
 ---
-
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="30"> **Mis Estadísticas**
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=qvecarlos-rgb&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF&border_color=4B0082" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qvecarlos-rgb&layout=compact&langs_count=8&bg_color=000000&title_color=8A2BE2&text_color=FFFFFF&border_color=4B0082" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=qvecarlos-rgb&background=000000&stroke=4B0082&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&sideLabels=FFFFFF&dates=FFFFFF&border=4B0082" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=qvecarlos-rgb&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=8A2BE2" />
-
-</div>
-
----
-
-
-<div align="center">
 
 ## 💭 Frase que me inspira
 
