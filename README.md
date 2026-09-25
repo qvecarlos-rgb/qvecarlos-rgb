@@ -28,8 +28,6 @@
 
 ✨ Soy **Elias Carlos Quispealaya Vera**, estudiante apasionado de **Ingeniería de Sistemas** en la **Universidad Nacional del Centro del Perú** 🇵🇪
 
-💜 Me encanta el color **negro y morado**, y todo lo relacionado con las **estrellas** y el universo 🌠
-
 🚀 Actualmente estoy aprendiendo **Python**, **Java** y **C++**, construyendo mi camino en el mundo del desarrollo.
 
 </td>
@@ -46,8 +44,6 @@
 | 🎓 | **Universidad:** Universidad Nacional del Centro del Perú |
 | 📚 | **Carrera:** Ingeniería de Sistemas |
 | 🌱 | **Aprendiendo:** Python · Java · C++ |
-| 💜 | **Colores favoritos:** Negro y Morado |
-| 🌌 | **Pasión:** Las estrellas y el código |
 | 📫 | **Contacto:** qvecarlos@gmail.com |
 
 </div>
