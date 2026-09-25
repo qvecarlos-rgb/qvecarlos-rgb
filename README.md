@@ -14,7 +14,7 @@
 
 <div align="center">
 
-## 🖤💜 Sobre mí 💜🖤
+##  || Sobre mí ||
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding"/>
 
