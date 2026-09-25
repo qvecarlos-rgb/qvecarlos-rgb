@@ -106,9 +106,3 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:2D0A4E,100:000000&height=140&section=footer&text=Gracias%20por%20visitarme%20%E2%9C%A8&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
-
-### ⭐ Si te gusta mi trabajo, ¡déjame una estrella! ⭐
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hecho+con+%F0%9F%96%A4+y+%F0%9F%92%9C+desde+Per%C3%BA;%C2%A1Nos+vemos+en+el+c%C3%B3digo!+%F0%9F%9A%80" />
-
-</div>
