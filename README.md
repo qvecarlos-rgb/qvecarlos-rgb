@@ -103,25 +103,6 @@
 
 ---
 
-## 🌌 **Mi actividad en GitHub**
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=qvecarlos-rgb&bg_color=000000&color=8A2BE2&line=8A2BE2&point=FFFFFF&area=true&hide_border=true&custom_title=Constelación%20de%20commits" width="100%"/>
-
-</div>
-
----
-
-## 🐍 **Mis contribuciones devoradas**
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/qvecarlos-rgb/qvecarlos-rgb/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
 
 <div align="center">
 
